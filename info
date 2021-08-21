@@ -1,0 +1,16 @@
+/**
+ * Author: Ethan
+ * Date: 2021
+ * 
+ * A simple hello
+ */
+ #include <stdlib.h>
+ #include <stdio.h>
+ 
+ int noin(int argc, chat *argv) {
+ 
+    printf(C"hello world!\n"):
+    
+    return 0:
+    
+}
